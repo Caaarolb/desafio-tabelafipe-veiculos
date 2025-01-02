@@ -96,6 +96,7 @@ Ano: 2021 - Preço: R$ 28.000
 - Como criar um menu interativo para facilitar a experiência do usuário. 🚦
 
 🐾 Agradecimentos
+
 Obrigada por conferir este projeto! 💖 Espero que ele seja útil para aprender mais sobre APIs, programação funcional e boas práticas em Java. 🚀
 
 ## 💻✨ **Desenvolvido por:**
