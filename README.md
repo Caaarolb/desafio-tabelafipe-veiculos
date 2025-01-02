@@ -89,13 +89,13 @@ Ano: 2020 - Preço: R$ 25.000
 Ano: 2021 - Preço: R$ 28.000
 ...
 ```  
-🌟 O que você vai aprender com este projeto: 
+🌟 **O que você vai aprender com este projeto:** 
 - Como consumir APIs REST em Java usando bibliotecas para manipulação de JSON. 🌐
 - Uso de streams e expressões lambda para ordenação e filtragem de dados. ✨
 - Manipulação de coleções como listas e mapeamentos. 📋
 - Como criar um menu interativo para facilitar a experiência do usuário. 🚦
 
-🐾 Agradecimentos
+🐾 **Agradecimentos**
 
 Obrigada por conferir este projeto! 💖 Espero que ele seja útil para aprender mais sobre APIs, programação funcional e boas práticas em Java. 🚀
 
